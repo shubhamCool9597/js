@@ -1,0 +1,31 @@
+.input {
+  margin-top: 50px;
+  text-align: center;
+  position: relative;
+}
+
+input[type="text"] {
+  width: 50%;
+  height: 50px;
+  font-size: 40px;
+}
+
+.comment {
+  position: absolute;
+  left: 25.2%;
+  width: 49.7%;
+}
+
+.single {
+  border: 1px solid grey;
+  display: block;
+}
+
+.single1 {
+  border: 1px solid grey;
+  display: block;
+}
+
+.hlight {
+  background-color: yellow;
+}
